@@ -1,0 +1,248 @@
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\NhaSach.exe.config
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\NhaSach.exe
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\NhaSach.pdb
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.csproj.AssemblyReference.cache
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.Properties.Resources.resources
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.csproj.GenerateResource.cache
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.exe
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.pdb
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.DangNhap.resources
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.Admin.resources
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.NhanVien.resources
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.NhapSachKM.resources
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.ThemSach.resources
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.ThemNhaPhanPhoi.resources
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.SuaSach.resources
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.csproj.CopyComplete
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\stdole.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\EnvDTE.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.MSXML.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.InHoaDon.resources
+C:\Users\hoang\OneDrive\Máy tính\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\x86\SqlServerSpatial160.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\x64\SqlServerSpatial160.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\NhaSach.exe.config
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\NhaSach.exe
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\NhaSach.pdb
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.Shared.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ShockwaveFlashObjects.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\EnvDTE.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\stdole.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\Microsoft.MSXML.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.csproj.AssemblyReference.cache
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.Admin.resources
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.DangNhap.resources
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.InHoaDon.resources
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.NhanVien.resources
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.NhapSachKM.resources
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.SuaSach.resources
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.ThemSach.resources
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.Properties.Resources.resources
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.ThemNhaPhanPhoi.resources
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.csproj.GenerateResource.cache
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.csproj.CoreCompileInputs.cache
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.csproj.CopyComplete
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.exe
+D:\Demo\QL_NhaSach_Nhom12\QL_NhaSach\NhaSach\obj\Debug\NhaSach.pdb
